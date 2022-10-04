@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ChaosVehiclesDebugTools",
+	"Description": "Chaos Vehicles Debug Tools",
+	"Category": "Other",
+	"CreatedBy": "Creatorama Studio",
+	"CreatedByURL": "https://github.com/CreatoramaStudio/ChaosVehiclesDebugTools",
+	"DocsURL": "https://github.com/CreatoramaStudio/ChaosVehiclesDebugTools/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/CreatoramaStudio/ChaosVehiclesDebugTools/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ChaosVehiclesDebugTools",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		}
+	]
+}
